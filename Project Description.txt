@@ -1,0 +1,4 @@
+This project involved the construction of a custom binary tree data structure from scratch. 
+The data structure supports insertion, search, element access, and other capabilities. 
+
+The BST program is contained within the "bstt.h" file, the cpp files are for running and testing the program. 
